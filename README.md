@@ -1,7 +1,7 @@
 # Tuya_Wechat_Devtools
 This project is developed using Tuya SDK, which enables you to quickly develop branded apps connecting and controlling smart scenarios of many devices.For more information, please check Tuya Developer Website.
 
-![智能单插.png](https://github.com/kangkoilxu/Tuya-Wechat-MiniCode/panel.jpg)
+![智能单插.png](https://github.com/kangkoilxu/Tuya-Wechat-MiniCode/blob/main/panel.jpg)
 
 # 基于涂鸦智能微信小程序SDK开发的智能电量统计WIFI插座
 - 支持电压电流电量的查看
@@ -19,11 +19,3 @@ This project is developed using Tuya SDK, which enables you to quickly develop b
 
 - The full version Demo
   Currently support device control, message push, add device (distribution network), home module
-
-  
-  
-  
-
-  
-  
-  
